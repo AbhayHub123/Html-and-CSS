@@ -1,0 +1,8 @@
+h6{
+    background-color: rgb(216, 152, 32);
+    color: rgb(49, 49, 229);
+    text-emphasis: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;    
+}
+
